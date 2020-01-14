@@ -1,0 +1,318 @@
+[
+    {
+        "hexNumber": "01",
+        "overview": "blank",
+        "terrain": "Grassland",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "02",
+        "overview": "Suggested starting area.",
+        "terrain": "Grassland",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "03",
+        "overview": "blank",
+        "terrain": "Grassland",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "04",
+        "overview": "blank",
+        "terrain": "Grassland",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "05",
+        "overview": "blank",
+        "terrain": "Forest",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "06",
+        "overview": "blank",
+        "terrain": "Forest",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "07",
+        "overview": "blank",
+        "terrain": "Forest",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "08",
+        "overview": "blank",
+        "terrain": "Grassland",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "09",
+        "overview": "blank",
+        "terrain": "Forest",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "10",
+        "overview": "The Lake.  Home of the Portal to the Plane of Water, guarded by an Abolith who's being punished.",
+        "terrain": "Lake",
+        "monument": "The Lake is the defining feature, spanning an approximate diameter of 4 miles.",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "11",
+        "overview": "blank",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "12",
+        "overview": "blank",
+        "terrain": "Mountain",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "13",
+        "overview": "blank",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "14",
+        "overview": "blank",
+        "terrain": "Mountain",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "15",
+        "overview": "blank",
+        "terrain": "Wooded Mountain",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "16",
+        "overview": "blank",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "17",
+        "overview": "Obsidian.",
+        "terrain": "Dunes",
+        "monument": "Obsidian, an old cargo ship that is beached on a dune 3 miles inland.",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "18",
+        "overview": "Mount Holy, the tallest point on the island.  Home to the Portal to the Plane of Air.",
+        "terrain": "Mountain",
+        "monument": "Mount Holy, which is easily twice as tall as the other nearby mountains.  It looks as if it was pulled up to the sky, rather than pushed up from the earth.",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "19",
+        "overview": "blank",
+        "terrain": "Wooded Mountain",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "20",
+        "overview": "New Otherdom",
+        "terrain": "Wooded Hills",
+        "monument": "The Baracks, a 1950's suburb, complete with bicycles, shorts, and a mailman.",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "21",
+        "overview": "blank",
+        "terrain": "Wooded Mountain",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "22",
+        "overview": "blank",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "23",
+        "overview": "blank",
+        "terrain": "Desert",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "24",
+        "overview": "blank",
+        "terrain": "Desert",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "25",
+        "overview": "blank",
+        "terrain": "Sea",
+        "monument": "The Razer, a coral reef colony that has grown out of the ocean.",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "26",
+        "overview": "blank",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "27",
+        "overview": "blank",
+        "terrain": "Volcano",
+        "monument": "Calerant, the Firebelly",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "28",
+        "overview": "blank",
+        "terrain": "Mountain",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "29",
+        "overview": "blank",
+        "terrain": "Swamp",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "30",
+        "overview": "blank",
+        "terrain": "Grassland",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "31",
+        "overview": "The Sunken Academy",
+        "terrain": "Sea",
+        "monument": "The Ruins of the First Orchird, which can be seen from a boat when the waters remain calm for 1 day (1 or 2 on d6)",
+        "secret": "A cave 100ft deep leads to a deeper level of the Orchid.",
+        "restockTable": []
+    },{
+        "hexNumber": "32",
+        "overview": "Sea",
+        "terrain": "blank",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "33",
+        "overview": "blank",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "34",
+        "overview": "blank",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "35",
+        "overview": "blank",
+        "terrain": "Swamp",
+        "monument": "The Perimeter.  A 40-foot high wall that covers a full square mile.  There is no gate, tower, or door.",
+        "secret": "The Temple.  Hidden behind the Perimeter is the Temple, a holy site for the locals.",
+        "restockTable": []
+    },{
+        "hexNumber": "36",
+        "overview": "The Portal to the Plane of Earth",
+        "terrain": "Forest",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "37",
+        "overview": "blank",
+        "terrain": "Grassland",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "38",
+        "overview": "Astérix Island.  The Orchird Academy Megadungeon",
+        "terrain": "Mountain",
+        "monument": "blank",
+        "secret": "The Orchid Academy, which enjoys it's hidden status from the world.",
+        "restockTable": []
+    },{
+        "hexNumber": "39",
+        "overview": "Astérix Island.  The Wasteland",
+        "terrain": "Dunes",
+        "monument": "The Glass Sea, a stretch of desert turned to glass through magical experiments long forgotten or covered up.",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "40",
+        "overview": "blank",
+        "terrain": "Sea",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "41",
+        "overview": "blank",
+        "terrain": "Forest",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "42",
+        "overview": "blank",
+        "terrain": "Forest",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "43",
+        "overview": "blank",
+        "terrain": "Grassland",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "44",
+        "overview": "Astérix Island",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    },{
+        "hexNumber": "45",
+        "overview": "Astérix Island",
+        "terrain": "Wooded Hills",
+        "monument": "blank",
+        "secret": "blank",
+        "restockTable": []
+    }
+]
