@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 8081;
 const app = express();
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(cors())
+app.use(cors());
 
 // Sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
