@@ -18,7 +18,9 @@ module.exports = function (app) {
     })
 
     app.get("/api/hexes/:id", (req, res) => {
+        console.log("Which hex? This hex?")
         console.log(req.params.id);
+        res.send("ponged your ping" + req.params.id)
     })
 
     app.put("/api/hexes/edit/:id", (req, res) => {
