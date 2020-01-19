@@ -18,9 +18,18 @@ module.exports = function (app) {
     })
 
     app.get("/api/hexes/:id", (req, res) => {
-        console.log("Which hex? This hex?")
-        console.log(req.params.id);
-        res.send("ponged your ping" + req.params.id)
+        console.log("which hex? this hex?  " + req.params.id)
+        fs.readFile("./data/hexes.json", "utf8", function (err, data) {
+            if (err) {
+                return console.log(err);
+            }
+
+            let tmp = JSON.parse(data);
+            let whichHex = parseInt(req.params.id)
+
+            // console.log(tmp[whichHex-1])
+            res.send(tmp[whichHex-1]);
+        })
     })
 
     app.put("/api/hexes/edit/:id", (req, res) => {

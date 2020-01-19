@@ -1,318 +1,91 @@
 [
     {
         "hexNumber": "01",
-        "overview": "blank",
-        "terrain": "Grassland",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
+        "terrain": {
+            "type": "Grassland",
+            "description": "Plains of wild flowers and grasses in various hues of greens, blues, and whites; long and loose so that with a strong wind the fields are indistinguishable from the ocean."
+        },
+        "monument": {
+            "name": "The Black Rock",
+            "description": "A naval ship that's been beeched 3 miles inland.",
+            "img_url": "img/url"
+        },
+        "rumor": {
+            "name": "Danielle Russo's Hideout",
+            "description": "A place with stuff.",
+            "img_url": "img/url"
+        },
+        "secret": {
+            "name": "The Calahan Flower",
+            "description": "Shorter than the other flowers of the field, this is literally a needle in a haystack.",
+            "img_url": "img/url"
+        },
+        "faction": "Furbolgs"
     },{
         "hexNumber": "02",
-        "overview": "Suggested starting area.",
-        "terrain": "Grassland",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
+        "terrain": {
+            "type": "Forest",
+            "description": "The path only shows you 20 feet in front of you and 20 feet behind you."
+        },
+        "monument": {
+            "name": "The Swan Station",
+            "description": "Once a font of magical energy, after The Incident this station has been repurposed to dispersing the latent energies building up beneath.",
+            "img_url": "img/url"
+        },
+        "rumor": {
+            "name": "The Cabin",
+            "description": "Where Jacob lived.",
+            "img_url": "img/url"
+        },
+        "secret": {
+            "name": "Vincent",
+            "description": "A dog who's made their home on the island.  He can answer one question before reverting to barking.",
+            "img_url": "img/url"
+        },
+        "faction": "Beasts"
     },{
         "hexNumber": "03",
-        "overview": "blank",
-        "terrain": "Grassland",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
+        "terrain": {
+            "type": "Mountain",
+            "description": "Jagged, aggressive, and forboeding, the Thunder Mountains are a presense no one can ignore."
+        },
+        "monument": {
+            "name": "Stone Giant Village",
+            "description": "If you're friendly with the Stone Giants, this could be a place of Sanctuary.  Problem is, who's ever made friends with a Stone Giant?",
+            "img_url": "img/url"
+        },
+        "rumor": {
+            "name": "The Caves of Koluis",
+            "description": "The wailing caverns.",
+            "img_url": "img/url"
+        },
+        "secret": {
+            "name": "Triode of Endurance",
+            "description": "A gem that resists all attempts to harvest it.",
+            "img_url": "img/url"
+        },
+        "faction": "Stone Giants"
     },{
         "hexNumber": "04",
-        "overview": "blank",
-        "terrain": "Grassland",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "05",
-        "overview": "blank",
-        "terrain": "Forest",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "06",
-        "overview": "blank",
-        "terrain": "Forest",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "07",
-        "overview": "blank",
-        "terrain": "Forest",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "08",
-        "overview": "blank",
-        "terrain": "Grassland",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "09",
-        "overview": "blank",
-        "terrain": "Forest",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "10",
-        "overview": "The Lake.  Home of the Portal to the Plane of Water, guarded by an Abolith who's being punished.",
-        "terrain": "Lake",
-        "monument": "The Lake is the defining feature, spanning an approximate diameter of 4 miles.",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "11",
-        "overview": "blank",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "12",
-        "overview": "blank",
-        "terrain": "Mountain",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "13",
-        "overview": "blank",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "14",
-        "overview": "blank",
-        "terrain": "Mountain",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "15",
-        "overview": "blank",
-        "terrain": "Wooded Mountain",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "16",
-        "overview": "blank",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "17",
-        "overview": "Obsidian.",
-        "terrain": "Dunes",
-        "monument": "Obsidian, an old cargo ship that is beached on a dune 3 miles inland.",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "18",
-        "overview": "Mount Holy, the tallest point on the island.  Home to the Portal to the Plane of Air.",
-        "terrain": "Mountain",
-        "monument": "Mount Holy, which is easily twice as tall as the other nearby mountains.  It looks as if it was pulled up to the sky, rather than pushed up from the earth.",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "19",
-        "overview": "blank",
-        "terrain": "Wooded Mountain",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "20",
-        "overview": "New Otherdom",
-        "terrain": "Wooded Hills",
-        "monument": "The Baracks, a 1950's suburb, complete with bicycles, shorts, and a mailman.",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "21",
-        "overview": "blank",
-        "terrain": "Wooded Mountain",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "22",
-        "overview": "blank",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "23",
-        "overview": "blank",
-        "terrain": "Desert",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "24",
-        "overview": "blank",
-        "terrain": "Desert",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "25",
-        "overview": "blank",
-        "terrain": "Sea",
-        "monument": "The Razer, a coral reef colony that has grown out of the ocean.",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "26",
-        "overview": "blank",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "27",
-        "overview": "blank",
-        "terrain": "Volcano",
-        "monument": "Calerant, the Firebelly",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "28",
-        "overview": "blank",
-        "terrain": "Mountain",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "29",
-        "overview": "blank",
-        "terrain": "Swamp",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "30",
-        "overview": "blank",
-        "terrain": "Grassland",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "31",
-        "overview": "The Sunken Academy",
-        "terrain": "Sea",
-        "monument": "The Ruins of the First Orchird, which can be seen from a boat when the waters remain calm for 1 day (1 or 2 on d6)",
-        "secret": "A cave 100ft deep leads to a deeper level of the Orchid.",
-        "encounterTable": []
-    },{
-        "hexNumber": "32",
-        "overview": "Sea",
-        "terrain": "blank",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "33",
-        "overview": "blank",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "34",
-        "overview": "blank",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "35",
-        "overview": "blank",
-        "terrain": "Swamp",
-        "monument": "The Perimeter.  A 40-foot high wall that covers a full square mile.  There is no gate, tower, or door.",
-        "secret": "The Temple.  Hidden behind the Perimeter is the Temple, a holy site for the locals.",
-        "encounterTable": []
-    },{
-        "hexNumber": "36",
-        "overview": "The Portal to the Plane of Earth",
-        "terrain": "Forest",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "37",
-        "overview": "blank",
-        "terrain": "Grassland",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "38",
-        "overview": "Astérix Island.  The Orchird Academy Megadungeon",
-        "terrain": "Mountain",
-        "monument": "blank",
-        "secret": "The Orchid Academy, which enjoys it's hidden status from the world.",
-        "encounterTable": []
-    },{
-        "hexNumber": "39",
-        "overview": "Astérix Island.  The Wasteland",
-        "terrain": "Dunes",
-        "monument": "The Glass Sea, a stretch of desert turned to glass through magical experiments long forgotten or covered up.",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "40",
-        "overview": "blank",
-        "terrain": "Sea",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "41",
-        "overview": "blank",
-        "terrain": "Forest",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "42",
-        "overview": "blank",
-        "terrain": "Forest",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "43",
-        "overview": "blank",
-        "terrain": "Grassland",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "44",
-        "overview": "Astérix Island",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
-    },{
-        "hexNumber": "45",
-        "overview": "Astérix Island",
-        "terrain": "Wooded Hills",
-        "monument": "blank",
-        "secret": "blank",
-        "encounterTable": []
+        "terrain": {
+            "type": "Swamp",
+            "description": "Ewww."
+        },
+        "monument": {
+            "name": "Yarland's Lair",
+            "description": "It would be a secret if it weren't for the Adult Green Dragon that lives here.",
+            "img_url": "img/url"
+        },
+        "rumor": {
+            "name": "The Orchird",
+            "description": "A brightspot among the muck.  Entrance to a MegaDungeon",
+            "img_url": "img/url"
+        },
+        "secret": {
+            "name": "Mammoth's Rest",
+            "description": "A fossilized mammoth, stuck in the tar.",
+            "img_url": "img/url"
+        },
+        "faction": "Goblins"
     }
 ]
