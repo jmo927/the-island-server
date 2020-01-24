@@ -7,20 +7,28 @@
         },
         "monument": {
             "name": "The Black Rock",
+            "url" : "",
             "description": "A naval ship that's been beeched 3 miles inland.",
             "img_url": "img/url"
         },
         "rumor": {
             "name": "Danielle Russo's Hideout",
+            "url" : "",
             "description": "A place with stuff.",
             "img_url": "img/url"
         },
         "secret": {
             "name": "The Calahan Flower",
+            "url" : "",
             "description": "Shorter than the other flowers of the field, this is literally a needle in a haystack.",
             "img_url": "img/url"
         },
-        "faction": "Furbolgs"
+        "tables": {
+                "firstRoll": ["Faction Leader", "Feral", "Faction", "Feral", "Faction", "Feral", "Fey", "Feral", "Fey", "Feral", "Fey Royalty"],
+                "faction": [],
+                "fey": [],
+                "feral": []
+        }
     },{
         "hexNumber": "02",
         "terrain": {
@@ -29,20 +37,28 @@
         },
         "monument": {
             "name": "The Swan Station",
+            "url" : "",
             "description": "Once a font of magical energy, after The Incident this station has been repurposed to dispersing the latent energies building up beneath.",
             "img_url": "img/url"
         },
         "rumor": {
             "name": "The Cabin",
+            "url" : "",
             "description": "Where Jacob lived.",
             "img_url": "img/url"
         },
         "secret": {
             "name": "Vincent",
+            "url" : "",
             "description": "A dog who's made their home on the island.  He can answer one question before reverting to barking.",
             "img_url": "img/url"
         },
-        "faction": "Beasts"
+        "tables": {
+            "firstRoll": ["Faction Leader", "Feral", "Faction", "Feral", "Faction", "Feral", "Fey", "Feral", "Fey", "Feral", "Fey Royalty"],
+            "faction": [],
+            "fey": [],
+            "feral": []
+    }
     },{
         "hexNumber": "03",
         "terrain": {
@@ -51,20 +67,28 @@
         },
         "monument": {
             "name": "Stone Giant Village",
+            "url" : "",
             "description": "If you're friendly with the Stone Giants, this could be a place of Sanctuary.  Problem is, who's ever made friends with a Stone Giant?",
             "img_url": "img/url"
         },
         "rumor": {
             "name": "The Caves of Koluis",
+            "url" : "",
             "description": "The wailing caverns.",
             "img_url": "img/url"
         },
         "secret": {
             "name": "Triode of Endurance",
+            "url" : "",
             "description": "A gem that resists all attempts to harvest it.",
             "img_url": "img/url"
         },
-        "faction": "Stone Giants"
+        "tables": {
+            "firstRoll": ["Faction Leader", "Feral", "Faction", "Feral", "Faction", "Feral", "Fey", "Feral", "Fey", "Feral", "Fey Royalty"],
+            "faction": [],
+            "fey": [],
+            "feral": []
+    }
     },{
         "hexNumber": "04",
         "terrain": {
@@ -73,19 +97,27 @@
         },
         "monument": {
             "name": "Yarland's Lair",
+            "url" : "",
             "description": "It would be a secret if it weren't for the Adult Green Dragon that lives here.",
             "img_url": "img/url"
         },
         "rumor": {
             "name": "The Orchird",
+            "url" : "",
             "description": "A brightspot among the muck.  Entrance to a MegaDungeon",
             "img_url": "img/url"
         },
         "secret": {
             "name": "Mammoth's Rest",
+            "url" : "",
             "description": "A fossilized mammoth, stuck in the tar.",
             "img_url": "img/url"
         },
-        "faction": "Goblins"
+        "tables": {
+            "firstRoll": ["Faction Leader", "Feral", "Faction", "Feral", "Faction", "Feral", "Fey", "Feral", "Fey", "Feral", "Fey Royalty"],
+            "faction": [],
+            "fey": [],
+            "feral": []
+    }
     }
 ]
